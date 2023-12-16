@@ -10,8 +10,6 @@ This project is basic example of shop.
 
 - React
 - React Hooks (and custom hooks)
-- Typescript
-- SCSS for styling
 
 ## Project Features
 
