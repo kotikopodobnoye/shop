@@ -1,0 +1,21 @@
+
+
+.numeric {
+  text-align: center;
+  width: 50px;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 160px;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  position: relative;
+}
