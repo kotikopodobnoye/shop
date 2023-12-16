@@ -24,6 +24,6 @@ This project is basic example of shop.
 - Supports the following types of sorting:
   - Sort by price in ascending order
   - Sort by price in descending order 
-  - Sort by popularity
+  - Sort by rating
 
 - Components are ready to be reused
